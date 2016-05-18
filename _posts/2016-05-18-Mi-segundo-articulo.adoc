@@ -1,18 +1,13 @@
-# Mi primer artículo 4
+# Mi segundo artículo
 Fernando Parada
 
-Me alegra que existan proyectos de código abierto como HubPress.io con el cual fue desarrollado este blog. Podemos analizalos y estudiarlos para comprender su funcionamiento y ser mejores programadores. Estoy escribiendo este post como prueba para mi propio blog http://fernandoparada.net.ve/blog[Fernando Parada].
+:uri-fernando: http://fernandoparada.net.ve/blog
+:uri-profesional: https://www.youtube.com/playlist?list=PLrVRAACcRcvirK1wGEbxeWQEE2ejLIL_G
 
-## Título
+image::http://hubpress.io/img/freeze/header.png[Hecho con Hubpres.io, 225,150, role=right]
 
-Aquí voy a introducir algo de codigo:
+Me alegra que existan proyectos de código abierto como HubPress.io con el cual fue desarrollado este blog. Podemos analizalos y estudiarlos para comprender su funcionamiento y ser mejores programadores. Estoy escribiendo este post como prueba para mi propio blog {uri-fernando}[Fernando Parada].
 
- System.out.println("Hello HubPress");
- 
-## Proyectos
+## Hubpress
 
-Blog de Fernando Parada
-
-* Fernando Parada - PHP
-* Fernando Parada - Node.js
-* Fernando Parada - Pyton
+Este es sin duda un proyecto que me ha llamado mucho la atencion y que no voy a perder de vista. Si quieres saber mas de hubpress entra ya en el curso {uri-profesional}[Profesional de Github con Hubpress]. 
