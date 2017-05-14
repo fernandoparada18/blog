@@ -1,0 +1,18 @@
+# Crea tu propio blog con Hubpress en github
+Fernando Parada
+
+Me alegra que existan proyectos de código abierto como HubPress.io con el cual fue desarrollado este blog. Podemos analizalos y estudiarlos para comprender su funcionamiento y ser mejores programadores. Estoy escribiendo este post como prueba para mi propio blog http://fernandoparada.net.ve/blog[Fernando Parada].
+
+## Título
+
+Aquí voy a introducir algo de codigo:
+
+ System.out.println("Hello HubPress");
+ 
+## Proyectos
+
+Blog de Fernando Parada
+
+* Fernando Parada - PHP
+* Fernando Parada - Node.js
+* Fernando Parada - Python
